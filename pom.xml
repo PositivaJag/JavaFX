@@ -36,7 +36,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.6</version>
                 <configuration>
-                    <mainClass>org.a_javafx_test.TipCalc</mainClass>
+                    <mainClass>org.a_javafx_test.Temp</mainClass>
                 </configuration>
                 <executions>
                     <execution>
@@ -80,5 +80,5 @@
             </plugin>
         </plugins>
     </build>
-    <name>TipCalculatorWorking</name>
+    <name>TipCalculatorClone</name>
 </project>
